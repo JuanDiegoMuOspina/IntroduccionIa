@@ -1,3 +1,5 @@
+#Sindy Marcela Cuatin Cuastumal
+#Juan Diego Muñoz Ospina
 
 ##punto número 1 del taller de Ia
 

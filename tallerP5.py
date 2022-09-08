@@ -1,3 +1,6 @@
+#Sindy Marcela Cuatin Cuastumal
+#Juan Diego Muñoz Ospina
+##punto número 5 del taller de Ia
 #5. Usted ha sido contratado para realizar un programa en Python para resolver los  procesos de facturación de un supermercado, analice el programa y defina los  procesos a implementar debe tener:  
 #a. Diferenciar sobre los diferentes productos con iva  
 #b. Elementos de la canasta familiar  

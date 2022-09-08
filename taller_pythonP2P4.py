@@ -1,3 +1,6 @@
+#Sindy Marcela Cuatin Cuastumal
+#Juan Diego Muñoz Ospina
+##punto número 2 y 4 del taller de Ia
 #punto2 IA
 #clasificar números indicando al final la cantidad de números pares y la cantidad de numeros impares,
 #el dato a ingresar es un número. Solo se deja de pedir número cuando el  usuario ingrese el numero cero

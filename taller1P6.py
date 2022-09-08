@@ -1,3 +1,7 @@
+#Sindy Marcela Cuatin Cuastumal
+#Juan Diego Muñoz Ospina
+##punto número 6 del taller de Ia
+
 palabra=input('Ingrese la palabra : ')
 
 def isPalindromo(palabra):
