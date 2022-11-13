@@ -64,3 +64,8 @@ a[1]
 plt.scatter(f1, f2)
 plt.xlabel('x'); plt.ylabel('y'); plt.plot(x_predicir, y_predic, 'c');
 plt.show()
+
+
+#conclusiones, para el analisis de las bases de datos,se ha encontrado un modelo con una correlación baja, esto implica que 
+# el modelo no se relaciona para los conjuntos de datos de la base de datos.
+#el R2 es muy cercano a 0 para ambas prediciones.
